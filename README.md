@@ -23,7 +23,7 @@ main_skills:
 🌱 **Currently self-learning:**
 - React.js
 - Node.js
-- Java
+- Stripe
 
 ### Github projects
 
