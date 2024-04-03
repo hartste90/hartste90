@@ -12,10 +12,10 @@ about:
   - >30 games on the App Store
 main_skills:
   - React.js
+  - Unity Engine
   - C#
   - JavaScript / TypeScript
   - HTML / CSS
-  - Untiy engine
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://fr.linkedin.com/in/jordan-nataf](https://www.linkedin.com/in/steven-hart-65458026/))
