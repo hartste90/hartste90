@@ -8,8 +8,8 @@ located_in: San Francisco, California
 current_job: React, C#, Unity dev
 about:
   - gamer geek
-  - organizer
-  - >30 games on the App Store
+  - 30+ games to the App Store
+  - team organizer
 main_skills:
   - React.js
   - Unity Engine
