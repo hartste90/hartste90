@@ -28,6 +28,6 @@ main_skills:
 
 ### Github projects
 
-Check out some of my public repositories for projects I've worked on
+Check out some of my public repositories for [projects I've worked on](https://github.com/hartste90/CodeSamples)
 
 > **You can support me by [Offering me a Coffee](https://www.buymeacoffee.com/steevyweevy) ☕️**
