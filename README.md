@@ -23,6 +23,8 @@ main_skills:
 
 🌱 **Currently self-learning:**
 - Three.js
+- Swift
+- SwiftUI
 - Stripe
 
 ### Github projects
