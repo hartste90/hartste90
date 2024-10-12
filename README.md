@@ -5,16 +5,16 @@
 ```yaml
 name: Steve Hart
 located_in: San Francisco, California
-current_job: React, C#, Unity dev
+current_job: React, JS, C#, Unity
 about:
-  - gamer geek
   - 30+ games to the App Store
-  - team organizer
+  - team management / mentorship
+  - sublime vibes
 main_skills:
-  - React.js
+  - React
+  - JS/TS
   - Unity Engine
   - C#
-  - JavaScript / TypeScript
   - HTML / CSS
   - python
 ```
